@@ -19,7 +19,7 @@ To get started with the Simple Interest Calculator, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/simple-interest-calculator.git
+   git clone https://github.com/yahaiii/simple-interest-calculator.git
    cd simple-interest-calculator
    ```
    
