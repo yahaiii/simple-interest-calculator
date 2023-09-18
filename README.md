@@ -1,6 +1,12 @@
 # Simple Interest Calculator
 
-Welcome to the Simple Interest Calculator project by OurMicroFinance startup.
+Welcome to the Simple Interest Calculator project by OurMicroFinance startup. A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
 ## Overview
 
